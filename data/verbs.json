@@ -2,25 +2,27 @@
   {
     "verb": "être",
     "meaning": "to be",
-    "example": "Je suis étudiant.",
-    "audio": "https://adu-sigma.vercel.app/audio/example1.mp3"
+    "conjugation": {
+      "je": "suis",
+      "tu": "es",
+      "il/elle": "est",
+      "nous": "sommes",
+      "vous": "êtes",
+      "ils/elles": "sont"
+    },
+    "audio": "/audio/etre.mp3"
   },
   {
     "verb": "avoir",
     "meaning": "to have",
-    "example": "J'ai un livre.",
+    "conjugation": {
+      "je": "ai",
+      "tu": "as",
+      "il/elle": "a",
+      "nous": "avons",
+      "vous": "avez",
+      "ils/elles": "ont"
+    },
     "audio": "/audio/avoir.mp3"
-  },
-  {
-    "verb": "aller",
-    "meaning": "to go",
-    "example": "Je vais à l'école.",
-    "audio": "/audio/aller.mp3"
-  },
-  {
-    "verb": "parler",
-    "meaning": "to speak",
-    "example": "Je parle français.",
-    "audio": "/audio/parler.mp3"
   }
 ]
