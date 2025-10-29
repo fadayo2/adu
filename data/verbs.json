@@ -10,7 +10,7 @@
       "vous": "êtes",
       "ils/elles": "sont"
     },
-    "audio": "/audio/etre.mp3"
+    "audio": "https://adu-sigma.vercel.app/audio/example1.mp3"
   },
   {
     "verb": "avoir",
